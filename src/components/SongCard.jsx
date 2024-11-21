@@ -11,7 +11,9 @@ const SongCard = ({ song, onViewDetails }) => {
       <div className="song-info">
         <h3 className="song-title">{song.name}</h3>
         <p className="song-artist">{song.artist || "Unknown Artist"}</p>
-        <button onClick={() => onViewDetails(song)}>Add to Playlist</button>
+        <button className="playlist-btn" onClick={() => onViewDetails(song)}>
+          Add to Playlist
+        </button>
       </div>
     </div>
   );
