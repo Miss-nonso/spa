@@ -18,7 +18,7 @@ The **Music Playlist Creator** is a web application that allows users to search 
 - **React**: For building the user interface.
 - **React Router**: For navigation in a Single Page Application (SPA).
 - **Spotify Web API**: For fetching music data.
-- **CSS (Tailwind)**: For styling, including animations and hover effects.
+- **CSS**: For styling, including animations and hover effects.
 
 ---
 
