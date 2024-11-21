@@ -86,7 +86,7 @@ This app uses the **Spotify Web API** to fetch song data. Steps to use a free pu
 
 1. **Register for API Access**: Get client credentials.
 2. **Authenticate**: Use the API's authentication method (e.g., `client_credentials` for Spotify).
-3. **Fetch Data**: Use `fetch` or `axios` to make requests.
+3. **Fetch Data**: Use `fetch` to make requests.
 4. **Handle Data**: Process and display the API's response in your app.
 
 ---
